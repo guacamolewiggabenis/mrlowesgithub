@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+ <html>
+  <title>Flappy</title>
+  <style>
+   Canvas {background: #f73;}
+  </style>
+</head>
+<script>
+ Var canvas =
+Document.getEelementById("my canvas");
+ Var cox =
+Canvas.getContext("2d");
+</script>
+<body>
+ <canvas id="myCanvas"
+width="480" height="320"></
+canvas>
+ </body>
